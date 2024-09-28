@@ -45,10 +45,10 @@ different sectors.
 👉[SafariHub](https://github.com/Misfit911/SafariHub)👈
 
 
-👉[SentimentFlow](https://github.com/Misfit911/SafariHub)👈
+👉[SentimentFlow](https://github.com/Misfit911/SentimentFlow)👈
 
 
-👉[Samsung Phone Classifier](https://github.com/Misfit911/SafariHub)👈
+👉[Samsung Phone Classifier](https://github.com/Misfit911/Samsung-Phone-Specification-Classifier)👈
 
 ---
 
