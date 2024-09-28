@@ -29,7 +29,7 @@ different sectors.
 
 ---
 
-  ![aspirations](https://github.com/user-attachments/assets/bb3b6190-1e3f-48d8-98ab-3aba947e7d35)
+![aspirations](https://github.com/user-attachments/assets/bf87b77c-ebbb-423b-9efc-69ec56f7113c)
 
 ---
 
