@@ -28,6 +28,8 @@ different sectors.
 
 ![tailwind](https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
+---
+
 
 ![projects](https://github.com/user-attachments/assets/e3bac0f7-ad2d-4c43-8e92-7ef83fc68240)
 
