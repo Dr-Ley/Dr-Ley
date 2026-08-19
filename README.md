@@ -44,6 +44,8 @@ different sectors.
 
 👉[Samsung Phone Classifier](https://github.com/Misfit911/Samsung-Phone-Specification-Classifier)👈
 
+👉[CV](https://drive.google.com/file/d/1di7tUDt_FXS9HTXyTRpdDvdXXZXJ5NyQ/view?usp=sharing)👈
+
 ---
 
 ![mojibit](https://github.com/user-attachments/assets/478c9ff5-fa1e-4604-9b87-1814b82f315d)
